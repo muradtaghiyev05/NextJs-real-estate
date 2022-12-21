@@ -20,7 +20,7 @@
 
 ![Home page](https://github.com/muradtaghiyev05/NextJs-real-estate/blob/main/real-state.jpg "Real Estate home page")
 
-#### The common funtionalities are:-
+#### The common functionalities are:-
 
 - The user can explore all the properties for sale and rent, and their ratings
 - The user can see the detailed description and pictures of the properties
